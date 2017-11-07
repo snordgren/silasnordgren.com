@@ -1,4 +1,4 @@
-h1, h2, p, div, ul, li, a {
+h1, h2, p, div, ul, li, a, body {
     margin: 0;
     padding: 0;
 }
@@ -7,12 +7,12 @@ body {
     color: #404040;
     font-size: 16px;
     line-height: 1.5;
-    margin-top: 20vh;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 0;
     max-width: 500px;
     min-width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
     width: 75%;
 }
 
