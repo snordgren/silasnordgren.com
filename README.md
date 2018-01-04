@@ -1,2 +1,2 @@
-# snordgren.github.io
-My personal website. Feedback and suggestions are welcome.
+# silasnordgren.com
+My personal website.
